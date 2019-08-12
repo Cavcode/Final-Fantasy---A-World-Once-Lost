@@ -1,4 +1,4 @@
-# Star Wars: Legends of the Old Republic
+# Final Fantasy: A World Once Lost
 Server-side C# code used in the Neverwinter Nights Star Wars: Legends of the Old Republic module.
 
 Game: Neverwinter Nights: Enhanced Edition
